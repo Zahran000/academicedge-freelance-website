@@ -1,0 +1,8 @@
+---
+deployment:
+  tasks:
+    - export DEPLOYPATH=/home/acadyuiy/public_html/
+    - /bin/cp -f index.html $DEPLOYPATH
+    - /bin/cp -Rf css $DEPLOYPATH
+    - /bin/cp -Rf js $DEPLOYPATH
+    - /bin/cp -Rf images $DEPLOYPATH

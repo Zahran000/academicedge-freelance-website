@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 160" role="img" aria-label="Assign Thesis">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#3BA3E0"/>
+      <stop offset="100%" stop-color="#1B6FB3"/>
+    </linearGradient>
+  </defs>
+  <g fill="none" stroke="url(#g)" stroke-width="6">
+    <path d="M80 38l48 18v44c0 28-20 46-48 56-28-10-48-28-48-56V56z"/>
+  </g>
+  <path fill="url(#g)" d="M80 52c-14 0-26 4-34 8v40c0 20 14 34 34 42 20-8 34-22 34-42V60c-8-4-20-8-34-8z"/>
+  <path fill="#F4FBFF" d="M80 70c-1.8 0-3.2.6-3.8 1.6L64 96h8.6l2.2-5.4h10.4L87.4 96H96L84 71.6C83.2 70.6 81.8 70 80 70zm.2 8.4l3.4 8.2h-6.8z"/>
+  <path fill="#F4FBFF" d="M92 86l14 8-14 8v-5l6-3-6-3z"/>
+  <path fill="#1B6FB3" d="M56 46h48l-24-14z"/>
+  <path fill="#1B6FB3" d="M98 36h8v10h-3v8h-5z"/>
+  <text x="150" y="78" font-family="Outfit, Arial, sans-serif" font-size="42" font-weight="800" fill="#12385A" letter-spacing="1">ASSIGN</text>
+  <text x="150" y="124" font-family="Outfit, Arial, sans-serif" font-size="42" font-weight="800" fill="#1B6FB3" letter-spacing="3">THESIS</text>
+</svg>

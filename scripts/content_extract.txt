@@ -1,0 +1,232 @@
+=== PARAS 190 TABLES 3 ===
+[0|Heading 1] 1. Header / Navigation
+[1|Normal] Logo: AcademicEdge
+[2|Normal] Navigation:
+About | Services | Subjects | Writers | Reviews | FAQ | Contact
+[3|Heading 1] 2. Hero Section
+[4|Normal] UK ACADEMIC SUPPORT
+[5|Normal] Get Expert Assignment & Dissertation Support Online
+[6|Normal] Receive reliable academic assistance for assignments, dissertations, essays, reports and research projects. AcademicEdge connects students with experienced academic specialists who provide clear, structured and subject-focused support based on university requirements.
+[7|Normal] Buttons:
+Call Us | Email Us
+[8|Normal] Review Boxes
+[9|Normal] ★★★★★ 
+[10|Normal] 4.7/5
+[11|Normal] Based on 185+ student reviews
+[12|Normal] Google 4.9/5
+[13|Normal] Rated by UK students
+[14|Normal] Independent Reviews
+[15|Normal] Trusted for academic support
+[16|Normal] Pricing Box
+[17|Normal] 3. Academic Support Starting from £15
+[18|Normal] Professional assistance for assignments, dissertations, research, editing and academic development.
+[19|Normal] Dissertation Support from 
+[20|Normal] ✓ Human-led academic assistance
+[21|Normal] ✓ 24/7 customer support
+[22|Normal] ✓ Free revisions and confidentiality
+[23|Normal] ✓ Reliable delivery for urgent work
+[24|Normal] 4. About Us Section
+[25|Normal] ABOUT US
+[26|Normal] Supporting UK Students for More Than 6 Years
+[27|Normal] AcademicEdge provides academic assistance to students across the UK who need support with assignments, dissertations, reports, research and other university work. Over the years, the company has developed subject-focused services designed around different academic levels and assessment requirements. Our aim is to provide clear, well-structured and research-based academic guidance while maintaining dependable deadlines, professional communication and full confidentiality.
+[28|Normal] Four Feature Cards
+[29|Normal] Qualified Academic Specialists
+[30|Normal] Support from professionals with advanced qualifications and strong subject knowledge.
+[31|Normal] Human-Led Academic Support
+[32|Normal] Each project receives direct academic input, review and subject-specific attention.
+[33|Normal] Reliable Delivery
+[34|Normal] Around 97.8% of projects are completed within the agreed delivery schedule.
+[35|Normal] Student-Friendly Pricing
+[36|Normal] Flexible service options are available for different academic levels and budgets.
+[37|Normal] 5. Statistics Section
+[38|Normal] 12K+
+[39|Normal] Academic projects supported monthly
+[40|Normal] 89%
+[41|Normal] Students reporting positive academic outcomes
+[42|Normal] 9.3/10
+[43|Normal] Projects completed within agreed schedules
+[44|Normal] 755+
+[45|Normal] Academic subjects and specialist domains covered
+[46|Normal] 6. Services Section
+[47|Normal] OUR SERVICES
+[48|Normal] Academic Content Support Based on Your Requirements
+[49|Normal] AcademicEdge offers structured academic assistance across different subjects, qualification levels and assessment formats. Each service is adapted to the academic brief, expected standard and individual learning requirements.
+[50|Normal] Four Service Cards
+[51|Normal] Dissertation Writing Support
+[52|Normal] Support for undergraduate, master’s and doctoral dissertations, including research, structure, analysis and academic presentation.
+[53|Normal] Assignment Help
+[54|Normal] Academic assistance for essays, reports, case studies, coursework and subject-specific university tasks.
+[55|Normal] Thesis Writing Support
+[56|Normal] Guidance from research proposal development to literature review, methodology, analysis and final academic review.
+[57|Normal] Essay Writing Support
+[58|Normal] Clear assistance with research, argument development, critical discussion, structure and referencing.
+[59|Normal] 7. Assignment Types Section
+[60|Normal] ASSIGNMENT TYPES
+[61|Normal] High-Quality Academic Assistance
+[62|Normal] AcademicEdge supports students with different types of university assessments. Services can be adapted to the subject, academic level, marking criteria and required deadline.
+[63|Normal] Four Cards
+[64|Normal] Essay Help
+[65|Normal] Research-based support for clear arguments, academic structure, critical analysis and referencing.
+[66|Normal] Homework Help
+[67|Normal] Accurate subject-focused assistance designed to help students understand academic tasks more clearly.
+[68|Normal] Coursework Help
+[69|Normal] Structured support for individual assignments, modules, portfolios and extended university coursework.
+[70|Normal] Related Academic Papers
+[71|Normal] Assistance with research papers, proposals, literature reviews, case studies, reflective writing and academic reports.
+[72|Normal] 8. BTEC Courses Section
+[73|Normal] COURSES
+[74|Normal] BTEC Assignment Support Across Pearson Levels
+[75|Normal] AcademicEdge provides structured support for BTEC students completing coursework, assignments, case studies and project-based assessments across different Pearson qualification levels.
+[76|Normal] Seven Level Boxes
+[77|Normal] Level 1
+[78|Normal] Introductory study
+[79|Normal] Level 2
+[80|Normal] Up to GCSE level
+[81|Normal] Level 3
+[82|Normal] A-Level equivalent
+[83|Normal] Level 4
+[84|Normal] Specialist higher study
+[85|Normal] Level 5
+[86|Normal] Higher National Diploma
+[87|Normal] Level 6
+[88|Normal] Higher education level
+[89|Normal] Level 7
+[90|Normal] Advanced diploma study
+[91|Normal] Six Course Cards
+[92|Normal] Hospitality
+Support with hospitality operations, customer service, management and industry-based assignments.
+[93|Normal] Business
+Assistance covering business strategy, finance, organisations, entrepreneurship and business case studies.
+[94|Normal] Leadership
+Academic guidance covering leadership approaches, management practice and organisational behaviour.
+[95|Normal] Computing
+Support for programming, networking, databases, cybersecurity and technical computing assignments.
+[96|Normal] Travel & Tourism
+[97|Normal] Assistance with tourism operations, destinations, customer experience and industry research.
+[98|Normal] Marketing
+[99|Normal] Support with marketing strategy, consumer behaviour, digital marketing and market analysis.
+[100|Normal] 9. Subjects Section
+[101|Normal] SUBJECTS
+[102|Normal] Specialist Support Across Major Academic Fields
+[103|Normal] AcademicEdge provides specialist academic guidance across 755+ subjects and related study areas, covering both theoretical and practical university work.
+[104|Normal] Three Main Tabs
+[105|Normal] Engineering | Accounting | MBA
+[106|Normal] Engineering Academic Support
+[107|Normal] AcademicEdge supports students completing engineering assignments, technical reports, research projects and analytical coursework. Assistance is adapted to the relevant engineering discipline and required university standards.
+[108|Normal] Engineering Areas
+[109|Normal] Civil
+Electrical
+Mechanical
+Chemical
+Software
+Environmental
+Aeronautical
+Geotechnical
+Agricultural
+[110|Normal] Wider Subject Areas
+[111|Normal] Business & Management
+[112|Normal] Engineering & Technology
+[113|Normal] Health & Medicine
+[114|Normal] Law & Legal Studies
+[115|Normal] Social Sciences
+[116|Normal] Computer Science
+[117|Normal] Arts & Humanities
+[118|Normal] Economics & Finance
+[119|Normal] Education & Teaching
+[120|Normal] Environmental Science
+[121|Normal] Psychology & Counselling
+[122|Normal] Nursing & Healthcare
+[123|Heading 1] 10. Pricing
+[124|Heading 2] Simple and Flexible Academic Support Pricing
+[125|Normal] Our standard rate is £30 per 1,000 words. Students do not need to pay the full amount in advance. Only 50% is required to confirm the order, while the remaining 50% can be paid after the completed work is ready.
+[126|Normal] Standard Pricing
+[127|Normal] 50% OFF Your First Order
+[128|Normal] New AcademicEdge customers receive 50% off their first order, making it easier to try our academic support services at a reduced price.
+[129|Normal] How Payment Works
+[130|Normal] 1. Confirm Your Order
+[131|Normal] Pay only 50% of the agreed amount to begin the project.
+[132|Normal] 2. We Complete the Work
+[133|Normal] Our academic specialist completes the full work according to the agreed requirements and deadline.
+[134|Normal] 3. Review the Completed Work
+[135|Normal] Once the work has been completed, you can review its completion before making the final payment.
+[136|Normal] 4. Pay the Remaining 50%
+[137|Normal] The remaining balance is paid after completion according to the agreed payment arrangement.
+[138|Normal] 11. Referral Rewards
+[139|Normal] Refer friends to AcademicEdge and earn free assignment support when they place orders for the same brief.
+[140|Normal] How It Works
+[141|Normal] Refer your friends → They place orders for the same brief → You receive free assignment rewards
+[142|Normal] Referral rewards apply after all referred orders have been confirmed and paid. Free assignments are subject to the agreed referral terms and applicable word limits.
+[143|Normal] 12. Why Choose AcademicEdge Section
+[144|Normal] WHY US
+[145|Normal] Why Students Choose AcademicEdge for Academic Support?
+[146|Normal] 1. Affordable Academic Services
+[147|Normal] Competitive pricing is available for assignments, dissertations, reports, research and other university tasks.
+[148|Normal] 2. 24/7 Support
+[149|Normal] Academic queries can arise at any time, so the support team remains available throughout the day.
+[150|Normal] 3. Experienced Academic Specialists
+[151|Normal] AcademicEdge works with 525+ subject specialists across business, law, engineering, healthcare, education and other disciplines.
+[152|Normal] 4. Student-Friendly Policies
+[153|Normal] Students receive clear communication, revision options and practical support throughout the service process.
+[154|Normal] 5. Reliable Delivery
+[155|Normal] Approximately 97.8% of projects are completed within the agreed deadline, including urgent academic requests.
+[156|Normal] 6. Complete Confidentiality
+[157|Normal] Academic documents, personal details and communications are handled privately and securely.
+[158|Normal] 12. Our Team
+[159|Normal] AcademicEdge works with 525+ academic specialists across literature, law, business, engineering, education, healthcare and many other fields. Profiles should reflect genuine qualifications and subject expertise.
+[160|Normal] 13. FAQ Section
+[161|Normal] FAQ
+[162|Normal] Frequently Asked Questions
+[163|Normal] What academic writing services does AcademicEdge provide?
+[164|Normal] AcademicEdge supports assignments, dissertations, essays, reports, coursework, research papers, thesis projects, BTEC work and other academic assessments.
+[165|Normal] Is AcademicEdge content human-led?
+[166|Normal] Yes. Academic specialists provide direct input, review and subject-focused support throughout the academic assistance process.
+[167|Normal] How quickly can my academic work be supported?
+[168|Normal] Turnaround depends on the task length, academic level and complexity. Some urgent projects can be supported within 24 hours where specialist availability allows.
+[169|Normal] Does AcademicEdge provide thesis and dissertation support?
+[170|Normal] Yes. Support covers research planning, literature reviews, methodology, analysis, academic structure, referencing and final review.
+[171|Normal] How many subjects does AcademicEdge cover?
+[172|Normal] AcademicEdge provides support across 755+ academic subjects and specialist areas, including business, engineering, law, healthcare, computing, psychology and education.
+[173|Normal] 14. Contact Section
+[174|Normal] Contact AcademicEdge
+[175|Normal] Need assistance with an academic project? Call or email AcademicEdge to discuss your requirements, deadline, academic level and subject. Our support team is available 24/7.
+[176|Normal] Phone
+[177|Normal] Kate: +447828701907
+[178|Normal] Luke Young: +447882500340
+[179|Normal] Email
+[180|Normal] academic.edge.uk.123@gmail.com 
+[181|Normal] Hours
+[182|Normal] 24/7 Academic Support
+[183|Normal] 16. Footer
+[184|Normal] AcademicEdge
+[185|Normal] Professional academic assistance for assignments, dissertations, reports, research and other university work, supported by 525+ academic specialists across 755+ subject areas.
+[186|Normal] Explore
+[187|Normal] Services
+BTEC
+Subjects
+Reviews
+[188|Normal] Copyright © 2026 AcademicEdge. All rights reserved.
+[189|Normal] 
+
+=== TABLES ===
+
+--- TABLE 0 rows=6 cols=4 ---
+R0: Word Count || Standard Price || Pay to Start (50%) || Pay After Completion
+R1: 1,000 words || £30 || £15 || £15
+R2: 2,000 words || £60 || £30 || £30
+R3: 3,000 words || £90 || £45 || £45
+R4: 4,000 words || £120 || £60 || £60
+R5: 5,000 words || £150 || £75 || £75
+
+--- TABLE 1 rows=6 cols=4 ---
+R0: Word Count || Regular Price || First-Order Price || You Save
+R1: 1,000 words || £30 || £15 || £15
+R2: 2,000 words || £60 || £30 || £30
+R3: 3,000 words || £90 || £45 || £45
+R4: 4,000 words || £120 || £60 || £60
+R5: 5,000 words || £150 || £75 || £75
+
+--- TABLE 2 rows=4 cols=3 ---
+R0: Successful Referrals || Referral Requirement || Your Reward
+R1: 3 Friends || 3 friends place orders for the same brief || 1 Assignment Free
+R2: 5 Friends || 5 friends place orders for the same brief || 3 Assignments Free
+R3: 10 Friends || 10 friends place orders for the same brief || 5 Assignments Free
